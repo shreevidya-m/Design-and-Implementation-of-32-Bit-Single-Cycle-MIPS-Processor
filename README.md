@@ -21,7 +21,6 @@ This project involves the design and verification of a 32-bit **MIPS processor**
 - **memory.sv**: Memory module for data storage.
 - **control_unit.sv**: Control unit to manage the processor’s control signals.
 
-## How to Run
 
 ## Prerequisites
 - A SystemVerilog simulator like [EDA Playground](https://www.edaplayground.com/) or [ModelSim](https://www.mentor.com/products/fpga/modelsim) is required for simulation and verification.
